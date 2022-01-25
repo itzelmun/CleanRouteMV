@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CleanRouteMV</string>
+    <!-- Login -->
+    <string name="btn_entrar">Entrar</string>
+    <!-- Boton rutas de menu -->
+    <string name="title_activity_rutas">Map</string>
+    <!-- Boton contenedores de menu -->
+    <string name="title_activity_contenedores">Map</string>
+    <!-- Boton recicladoras de menu -->
+    <string name="ib_ibRecicladoras">RECICLADORAS</string>
+    <!-- Boton concientizate de menu -->
+    <string name="ib_ibConcientizate">CONCIENTIZATE</string>
+    <!-- Boton reportar de menu -->
+    <string name="ib_ibReportar">REPORTAR</string>
+    <!-- Boton cerrar de menu -->
+    <string name="ib_ibCerrar">CERRAR</string>
+    <string name="title_activity_recicladora">Map</string>
+
+</resources>
